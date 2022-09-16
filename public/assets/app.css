@@ -17,8 +17,12 @@ body {
   display: -ms-flexbox;
   display: flex;
   padding-top: 1em;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
 }
 
 .movie {
@@ -30,7 +34,8 @@ body {
   height: 300px;
   width: 100%;
   margin-bottom: 1em;
-  box-shadow: 1px 1px 20px #c7c7c7;
+  -webkit-box-shadow: 1px 1px 20px #c7c7c7;
+          box-shadow: 1px 1px 20px #c7c7c7;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

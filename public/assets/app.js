@@ -14887,8 +14887,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/alecsfp/projects/sfp-frontend-assessment/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/alecsfp/projects/sfp-frontend-assessment/resources/scss/app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! /home/trapdesks8n/Desktop/takehome/sfp-frontend-assessment/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/trapdesks8n/Desktop/takehome/sfp-frontend-assessment/resources/scss/app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
